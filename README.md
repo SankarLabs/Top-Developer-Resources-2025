@@ -4,7 +4,7 @@
 
 **Curated top 10 GitHub repos for developers in 2025**
 
-*Free books • APIs • Roadmaps • Algorithms • and more!*
+*Free books • APIs • Roadmaps • Algorithms • and more! *
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/top-dev-resources-2025?style=social)](https://github.com/yourusername/top-dev-resources-2025)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/top-dev-resources-2025?style=social)](https://github.com/yourusername/top-dev-resources-2025/fork)
