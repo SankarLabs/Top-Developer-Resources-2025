@@ -45,7 +45,7 @@ In a sea of endless resources, these **10 repositories** stand out as timeless e
 
 ```bash
 # Clone this repository
-git clone https://github.com/sankarlabs/top-dev-resources-2025.git
+git clone https://github.com/SankarLabs/Top-Developer-Resources-2025.git
 
 # Star the repos you find useful
 # Fork them to your profile
