@@ -56,7 +56,7 @@ git clone https://github.com/yourusername/top-dev-resources-2025.git
 
 ## 📥 Extras
 
-- 📄 **[Download PDF Guide](./Top_10_GitHub_Resources_2025.pdf)** - Detailed offline reference
+- 📄 **[Download PDF Guide](docs./Top_10_GitHub_Resources_2025.pdf)** - Detailed offline reference
 - 🔗 **[Bookmark Collection](./bookmarks.html)** - Import directly to your browser
 - 📊 **[Progress Tracker](./progress-tracker.md)** - Track your learning journey
 
